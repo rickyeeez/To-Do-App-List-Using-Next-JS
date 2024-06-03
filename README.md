@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+This Project is used to fullfilled selection on Full Stack Developer Internship position at Gema Phala Ananta. 
+Build With :
+@ Next.js v14.2.3
+@ PostgresSQL
+@ Build On Vercel
 
 First, run the development server:
 
